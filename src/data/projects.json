@@ -1,0 +1,27 @@
+
+[
+  {
+    "id": 1,
+    "title": "nFactorial ToDo-list",
+    "description": "The Simple To-Do List application is a user-friendly productivity tool designed to help users organize and manage their daily tasks effectively. The app provides an intuitive interface to track tasks, mark them as completed, and categorize them for easy access.",
+    "tags": ["HTML", "CSS", "React"],
+    "github": "https://github.com/dtk1/ToDoApp-project-week3",
+    "img": "../../public/assets/todolist.png"
+  },
+  {
+    "id": 2,
+    "title": "nFactorial Twitter clone",
+    "description": "The Twitter Clone is a front-end project designed to replicate the core functionalities of Twitter's interface. This project focuses on providing users with a visually appealing and interactive platform to view and filter posts (tweets) based on keywords or categories.",
+    "tags": ["React", "HTML", "CSS"],
+    "github": "https://github.com/dtk1/nFactorial-homework-11-twitte-clone-search",
+    "img": "../../public/assets/twitter.png"
+  },
+  {
+    "id": 3,
+    "title": "nFactorial Jumystap",
+    "description": "This project showcases a simple yet powerful landing page concept that emphasizes the value of skills over experience for job seekers. It is designed as a tool for connecting individuals with top companies based on their unique abilities. The sleek and modern design is geared toward guiding users to take the first step in their career journey effortlessly.",
+    "tags": ["React", "HTML", "CSS"],
+    "github": "https://github.com/dtk1/Jumystap-Project",
+    "img": "../../public/assets/jumystap.png"
+  }
+]
